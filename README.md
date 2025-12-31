@@ -1,4 +1,4 @@
-# terraform-azure-vnet-vm
+# terraform-azure-vnet-vm storage account
 
 This repository contains an Infrastructure as Code (IaC) example for creating a web server with a custom webpage, using Terraform and deploying it on Microsoft Azure.
 
