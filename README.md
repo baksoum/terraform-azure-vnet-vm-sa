@@ -65,7 +65,7 @@ Confirm the action by typing yes.
 Access the Virtual Machine:
 Once the VM is deployed, you can access it using SSH:
 
-ssh -i cleduserveur.key <admin-username>@<public-ip>
+ssh -i cleduserveur.key 'admin-username>@<public-ip'
 
 
 Ce texte résume les différentes ressources et leur rôle dans l'infrastructure déployée. Les utilisateurs peuvent suivre les étapes pour initialiser et appliquer cette configuration.
